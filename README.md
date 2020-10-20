@@ -1,3 +1,3 @@
 # project
 my programming project
-# seen
+# use git bash, a terminal or something else not online upload
